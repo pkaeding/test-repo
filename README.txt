@@ -16,5 +16,4 @@ This demo also includes an image with changes on a branch for examination of ima
 
 # Feature Flags
 * `practical-fresh-car-4310`
-* `handcrafted-rubber-towels-6660`
 * `fantastic-concrete-soap-9616`
