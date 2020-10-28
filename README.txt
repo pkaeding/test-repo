@@ -14,4 +14,7 @@ We can, as an example effort, even modify this README and change it as if it wer
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 
-Blah Blah
+# Feature Flags
+* `practical-fresh-car-4310`
+* `handcrafted-rubber-towels-6660`
+* `fantastic-concrete-soap-9616`
